@@ -8,10 +8,10 @@ Bookmarks: Bookmark solutions for quick access.
 Comments: Engage with the community by commenting on solutions.
 User Authentication: Secure user login and registration.
 # Tech Stack
-Frontend: React, Vite, CSS Modules
-Backend: Node.js, Express
-Database: MongoDB
-Authentication: JWT
+#Frontend: React, Vite, CSS Modules
+#Backend: Node.js, Express
+#Database: MongoDB
+#Authentication: JWT
 
 # Getting started
 prerequisties
