@@ -26,10 +26,17 @@ User Authentication: Secure user login and registration.
 #npm
 
 # HOW TO RUN
-First clone the repo using the link in th clone option
+
+#First clone the repo using the link in th clone option
+
 Checkout to the branch named "final-branch" using the command -- git checkout final-branch
+
 npm install
+
 npm run dev
+
 create another terminal and change directory to Backend using command -- cd Backend
+
 npm i
+
 npm start
