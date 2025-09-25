@@ -5,7 +5,7 @@ Problem Statements: Browse and solve a variety of coding problems.
 Language Support: Supports JavaScript, Python, Java, and C++.
 User Solutions: Submit and view solutions from other users.
 Bookmarks: Bookmark solutions for quick access.
-Comments: Engage with the community by commenting on solutions.
+Comments: Engage with the community by commenting on the solutions.
 User Authentication: Secure user login and registration.
 # Tech Stack
 
